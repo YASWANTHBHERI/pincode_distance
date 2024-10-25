@@ -18,7 +18,7 @@ You can use Postman to test the API by sending a GET request to the provided end
 Method: GET
 
 
-EndPoint: http://localhost:8080/api/routes/{originPincode}-{deastinationPincode}
+EndPoint: http://localhost:8080/api/routes/{originPincode}-{destinationPincode}
 
 
 Example: http://localhost:8080/api/routes/141106-110060
