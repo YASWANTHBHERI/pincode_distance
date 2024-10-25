@@ -13,8 +13,14 @@ Google Routes API: https://developers.google.com/maps/documentation/routes/overv
 You can use Postman to test the API by sending a GET request to the provided endpoint.
 
 # API-EndPoint
+
+
 Method: GET
+
+
 EndPoint: http://localhost:8080/api/routes/{originPincode}-{deastinationPincode}
+
+
 Example: http://localhost:8080/api/routes/141106-110060
 
 # TestCases
