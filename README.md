@@ -24,7 +24,7 @@ EndPoint: http://localhost:8080/api/routes/{originPincode}-{destinationPincode}
 Example: http://localhost:8080/api/routes/141106-110060
 
 # TestCases
-Junit test cases implemented for
+Test cases implemented for
 1. Controller
 2. Service
 
